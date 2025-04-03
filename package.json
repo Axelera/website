@@ -1,0 +1,9 @@
+{
+    "name": "axelera-website",
+    "type": "module",
+    "version": "0.0.1",
+    "scripts": {},
+    "devDependencies": {
+        "@junobuild/config": "^0.1.3"
+    }
+}
