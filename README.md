@@ -41,6 +41,8 @@ Per personalizzare il sito:
 
 Il sito utilizza Font Awesome per le icone, caricato tramite CDN. Se il sito viene utilizzato offline, potrebbe essere necessario scaricare Font Awesome localmente.
 
+Utilizziamo [Juno Analytics](https://juno.build/docs/build/analytics/) per analizzare il traffico del sito, in maniera anonima.
+
 ## Risorse
 
 -   Vuoi sapere di più su Juno? [Consulta la documentazione](https://juno.build).
